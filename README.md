@@ -2,9 +2,11 @@
 
 ---
 
-#### Design Idea - [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+[View Demo](https://accordion-proj.netlify.app/)
 
 ![Accordion Preview](/public/accordion_preview.png);
+
+#### Design Idea - [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 ---
 
